@@ -1,5 +1,4 @@
 <?php
-<h1>cambios</h1>
 require_once "config.php";
 
 $mensaje = "";
